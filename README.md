@@ -1,5 +1,10 @@
-software engineer at [Concentrix](https://kr.concentrix.com/) · studied at [UNIST](https://www.unist.ac.kr/unist/index.do)<br>
-<sub>`Apex` `JavaScript` · learning backend, Shopify & Korean</sub>
+#### A Software Engineer by day ☼ and a backend learner by night ☾
+
+- ⚙️ I use daily: `Apex`, `JavaScript`
+- 🌱 Currently learning: **Backend development**, **Shopify**, and of course **Korean** 🇰🇷
+- 💬 `ping` me about **Salesforce**, **integrations**, **automation**
+
+----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
