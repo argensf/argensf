@@ -1,22 +1,15 @@
-## Hi there 👋
+### Hello there 👋
+
+#### A Salesforce Developer by day ☼ and a backend learner by night ☾
+
+- ⚙️ I use daily: `Apex`, `LWC`, `SOQL`, `.js`, `.html`, `.css`
+- 🌱 Currently learning: **Backend development**, **Shopify**, and of course **Korean** 🇰🇷
+- 💬 `ping` me about **Salesforce**, **integrations**, **automation**
+
+----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
   <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" />
 </picture>
-
-<!--
-**argensf/argensf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
