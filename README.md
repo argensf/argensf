@@ -2,7 +2,10 @@
 
 #### A Salesforce Developer by day ☼ and a backend learner by night ☾
 
-- ⚙️ I use daily: `Apex`, `LWC`, `SOQL`, `.js`, `.html`, `.css`
+Salesforce Developer at [Concentrix](https://kr.concentrix.com/);<br>
+Studied at [UNIST](https://www.unist.ac.kr/unist/index.do);<br>
+
+- ⚙️ I use daily: `Apex`, `JavaScript`
 - 🌱 Currently learning: **Backend development**, **Shopify**, and of course **Korean** 🇰🇷
 - 💬 `ping` me about **Salesforce**, **integrations**, **automation**
 
