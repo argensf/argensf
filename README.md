@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblue.svg" />
+  <img src="profile-3d-contrib/profile-gitblue.svg" alt="3D contribution graph" />
+</picture>
+
 <!--
 **argensf/argensf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
