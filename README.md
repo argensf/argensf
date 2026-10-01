@@ -1,15 +1,5 @@
-### Hello there 👋
-
-#### A Salesforce Developer by day ☼ and a backend learner by night ☾
-
-Salesforce Developer at [Concentrix](https://kr.concentrix.com/);<br>
-Studied at [UNIST](https://www.unist.ac.kr/unist/index.do);<br>
-
-- ⚙️ I use daily: `Apex`, `JavaScript`
-- 🌱 Currently learning: **Backend development**, **Shopify**, and of course **Korean** 🇰🇷
-- 💬 `ping` me about **Salesforce**, **integrations**, **automation**
-
-----
+software engineer at [Concentrix](https://kr.concentrix.com/) · studied at [UNIST](https://www.unist.ac.kr/unist/index.do)<br>
+<sub>`Apex` `JavaScript` · learning backend, Shopify & Korean</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
