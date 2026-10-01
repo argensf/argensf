@@ -1,7 +1,5 @@
-#### A Software Engineer by day ☼ and a backend learner by night ☾
-
 - ⚙️ I use daily: `Apex`, `JavaScript`
-- 🌱 Currently learning: **Backend development**, **Shopify**, and of course **Korean** 🇰🇷
+- 🌱 Currently learning: **Backend development**, **Shopify** and  **Korean** 🇰🇷
 - 💬 `ping` me about **Salesforce**, **integrations**, **automation**
 
 ----
