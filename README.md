@@ -1,5 +1,5 @@
 - ⚙️ I use daily: `Apex`, `JavaScript`
-- 🌱 Currently learning: **Backend development**, **Shopify** and  **Korean** 🇰🇷
+- 🌱 Currently learning: **Backend development**, **Shopify** and  **Korean**
 - 💬 `ping` me about **Salesforce**, **integrations**, **automation**
 
 ----
